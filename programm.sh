@@ -7,5 +7,5 @@ if [[ "$VASTUS" = jah ]]; then
 elif [[ "$VASTUS" = ei ]]; then
     echo 'Sa eksid, Artur ikkagi on väga väga tark :)'
 else
-    echo 'Ei saanud su jutust aru, sa ütlesid $VASTUS'
+    echo "Ei saanud su jutust aru, sa ütlesid $VASTUS"
 fi
